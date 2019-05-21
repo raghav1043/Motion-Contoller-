@@ -1,4 +1,4 @@
 # Motion-Controller
-This provide real time controll of programmatic wheelchair through facial expression i.e. blinking, wink for the persons with dissability.
+This code provide real time controll of wheelchair through simple facial expression (blinking, wink) for persons suffering from dissability.
 
 
